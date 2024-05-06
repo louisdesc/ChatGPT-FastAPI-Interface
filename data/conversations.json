@@ -1,0 +1,21 @@
+[
+[ {"role": "assistant","content": "Bonjour, comment puis-je vous aider aujourd'hui ?" },{ "role": "user","content": "Bonjour, j'aimerais savoir si mon vol est à l'heure."},{"role": "assistant","content": "Pourriez-vous me donner le numéro de votre vol, s'il vous plaît ?"}],
+
+[ {"role": "assistant","content": "Bonjour, comment puis-je vous aider aujourd'hui ?" },{ "role": "user","content": "Oui, je voudrais savoir si je peux enregistrer mes bagages à l'avance."},{"role": "assistant","content": "Oui, vous pouvez enregistrer vos bagages à l'avance à partir de 24 heures avant votre vol. Vous pouvez le faire en ligne ou à l'aéroport."}],
+
+[ {"role": "assistant","content": "Bonjour, comment puis-je vous aider aujourd'hui ?" },{ "role": "user","content": "Je cherche un endroit pour acheter des souvenirs."},{"role": "assistant",    "content": "Il y a un magasin de souvenirs à proximité de la porte 12. Vous y trouverez des produits typiques de Paris et des souvenirs de voyage."}],
+
+[ { "role": "assistant", "content": "Bonjour, comment puis-je vous aider aujourd'hui ?" }, { "role": "user", "content": "Je cherche la porte de mon vol pour Paris." }, { "role": "assistant", "content": "La porte de votre vol pour Paris est le 17. Vous pouvez prendre l'escalator pour y accéder." } ],
+
+[ { "role": "assistant", "content": "Bonjour, comment puis-je vous aider aujourd'hui ?" }, { "role": "user", "content": "J'ai perdu mon billet d'avion, pouvez-vous m'aider ?" }, { "role": "assistant", "content": "Oui, bien sûr ! Pouvez-vous me donner votre nom et votre numéro de réservation, s'il vous plaît ? Je vais vous aider à récupérer votre billet." } ],
+
+[ { "role": "assistant", "content": "Bonjour, comment puis-je vous aider aujourd'hui ?" }, { "role": "user", "content": "Je voudrais savoir si il y a des restaurants ouverts tôt le matin à la porte 5." }, { "role": "assistant", "content": "Oui, il y a un café ouvert 24h/24 à proximité de la porte 5. Vous pouvez y trouver des boissons chaudes et des petits déjeuners légers." } ],
+
+[ { "role": "assistant", "content": "Bonjour, comment puis-je vous aider aujourd'hui ?" }, { "role": "user", "content": "Je voudrais savoir si je peux acheter une carte SIM locale proche de la porte 21." }, { "role": "assistant", "content": "Oui, vous pouvez acheter une carte SIM locale au kiosque de téléphonie mobile à proximité de la porte 20." } ],
+
+[ { "role": "assistant", "content": "Bonjour, comment puis-je vous aider aujourd'hui ?" }, { "role": "user", "content": "Je cherche un endroit pour stocker mes bagages pendant quelques heures." }, { "role": "assistant", "content": "Il y a un service de stockage de bagages à proximité de la porte 3. Vous pouvez y laisser vos bagages en sécurité pour une journée." } ],
+
+[ { "role": "assistant", "content": "Bonjour, comment puis-je vous aider aujourd'hui ?" }, { "role": "user", "content": "Je voudrais savoir si il y a des espaces de travail disponibles dans l'aéroport." }, { "role": "assistant", "content": "Oui, il y a un salon d'affaires avec des espaces de travail équipés à proximité de la porte 10. Vous pouvez y accéder avec un billet d'avion." } ],
+
+[ { "role": "assistant", "content": "Bonjour, comment puis-je vous aider aujourd'hui ?" }]
+]
