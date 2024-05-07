@@ -34,6 +34,3 @@ This application uses FastAPI to create a web-based chat interface that interact
 - `main.py`: Contains FastAPI app setup, routes, and chat logic.
 - `chat_logic.py`: Includes helper functions for importing data, formatting conversations, calculating confidence, and verifying responses.
 
-## Contributions
-Contributions are welcome. Please create a pull request or raise an issue for bugs and feature requests.
-
